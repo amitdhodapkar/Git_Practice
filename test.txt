@@ -1,4 +1,3 @@
 hello!
 Edited
-Edited
-Edited for a third time
+Hey, we fixed the bug
