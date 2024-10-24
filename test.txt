@@ -1,4 +1,4 @@
 hello!
 Edited
 Added a very important change
-Added a hot feature
+Added a cool feature
