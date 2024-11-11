@@ -7,6 +7,13 @@ on:
         description: "Enter your name"
         required: true
         default: "Your Name"
+  push:
+    branches:
+      - main
+      - feature
+  pull_request:
+    branches:
+      - feature/cool_feature
 
 jobs:
   print_name:
