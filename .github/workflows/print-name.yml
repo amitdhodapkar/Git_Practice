@@ -9,8 +9,7 @@ on:
         default: "Your Name"
   push:
     branches:
-      - main
-      - feature
+      - feature/cool_feature
   pull_request:
     branches:
       - feature/cool_feature
