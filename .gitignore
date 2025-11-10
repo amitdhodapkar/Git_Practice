@@ -1,2 +1,4 @@
 secrets.yml
 node_modules
+atlassian_config.json
+jira_bugs.json
